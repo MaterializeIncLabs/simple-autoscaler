@@ -1,0 +1,3 @@
+python-dotenv==v1.0.1
+psycopg==v3.1.19
+fire==v0.6.0
